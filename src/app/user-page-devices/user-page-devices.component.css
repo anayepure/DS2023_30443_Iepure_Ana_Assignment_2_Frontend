@@ -1,0 +1,14 @@
+.mat-toolbar
+{
+  color: black;
+  background-color: dodgerblue;
+}
+.mat-table{
+  width: 100%;
+}
+
+.excedeed-message
+{
+  color: red;
+  padding-top: 100px;
+}
